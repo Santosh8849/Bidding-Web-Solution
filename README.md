@@ -61,21 +61,6 @@ The **Bidding Web Solution** is an online auction platform that replaces traditi
   - Hardware: 8GB RAM / 250GB SSD / Intel i3 11th Gen  
   - Tools: Django, HTML/CSS/JS, Bootstrap, Ajax, Sqlite3, VS Code
 
-##  System Design
-
-###  Data Flow Diagram (DFD)
-
-<img width="837" height="908" alt="image" src="https://github.com/user-attachments/assets/5b7df8bc-567e-42e3-a27d-15346aec7bfa" /> <br>
-<img width="937" height="908" alt="image" src="https://github.com/user-attachments/assets/257b337c-9a08-44e6-a192-a5ac0fb95086" /> <br>
-<img width="937" height="908" alt="image" src="https://github.com/user-attachments/assets/16721604-7893-401c-9b08-7abe7777d782" /> <br>
-<img width="937" height="908" alt="image" src="https://github.com/user-attachments/assets/86aa55a5-ebd3-4f63-a110-d4eb3d039496" /> <br>
-
-### ER Diagram
-
-<img width="937" height="908" alt="image" src="https://github.com/user-attachments/assets/394f547a-e54d-477e-ac2e-cc3184b19f1f" />
-
-
----
 
 ##  Sample Forms
 

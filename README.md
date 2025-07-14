@@ -134,11 +134,11 @@ The **Bidding Web Solution** is built using HTML, CSS, JavaScript, Ajax, Django,
 The system simplifies and digitizes the auction process, ensuring scalability, accessibility, and efficiency for all users.
 
 ## Contact Info:
-<h5>
+<h3>
   This is a college purpose project. If you want, I will give you the project, document, and PPT.
   You can contact me at
   <a href="mailto:skverma161245@gmail.com">skverma161245@gmail.com</a>.
-</h5>
+</h3>
 
 
 ## 🙏 Thank You!
